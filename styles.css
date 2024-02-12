@@ -19,6 +19,14 @@ body, html {
 
     transition: transform 0.3s ease; 
 }
+.principal:hover {
+    transform: scale(1.5); 
+}
 
+.primerCirculo {
+    background-color: white;
+    width: 300px;
+    height: 300px;
+}
 
 
