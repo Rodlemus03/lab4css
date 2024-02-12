@@ -29,4 +29,17 @@ body, html {
     height: 300px;
 }
 
+.segundoCirculo {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+
+}
+
+.tercerCirculo {
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+
+}
 
